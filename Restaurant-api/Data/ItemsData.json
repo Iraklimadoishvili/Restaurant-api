@@ -1,0 +1,116 @@
+[
+  {
+    "Name": "Spaghetti Bolognese",
+    "Description": "Classic Italian pasta dish with meat sauce",
+    "PhotoUrl": "Images/spaghetti-bolognese.jpg",
+    "Price": "12.99"
+  },
+  {
+    "Name": "Caesar Salad",
+    "Description": "Crisp romaine lettuce with Parmesan cheese and croutons",
+    "PhotoUrl": "Images/caesar-salad.jpg",
+    "Price": "8.50"
+  },
+  {
+    "Name": "Margherita Pizza",
+    "Description": "Traditional Neapolitan pizza with tomato, mozzarella, and basil",
+    "PhotoUrl": "Images/margherita-pizza.jpg",
+    "Price": "10.75"
+  },
+  {
+    "Name": "Chicken Teriyaki",
+    "Description": "Grilled chicken with a sweet and savory teriyaki glaze",
+    "PhotoUrl": "Images/chicken-teriyaki.jpg",
+    "Price": "11.25"
+  },
+  {
+    "Name": "Beef Burger",
+    "Description": "Juicy beef patty with lettuce, tomato, and pickles",
+    "PhotoUrl": "Images/beef-burger.jpg",
+    "Price": "9.99"
+  },
+  {
+    "Name": "Fish and Chips",
+    "Description": "Crispy battered fish served with fries",
+    "PhotoUrl": "Images/fish&chips.jpg",
+    "Price": "13.50"
+  },
+  {
+    "Name": "Mushroom Risotto",
+    "Description": "Creamy Arborio rice cooked with mushrooms and Parmesan",
+    "PhotoUrl": "Images/mushroom-risotto.jpg",
+    "Price": "10.50"
+  },
+  {
+    "Name": "Chicken Caesar Wrap",
+    "Description": "Grilled chicken, romaine lettuce, and Caesar dressing wrapped in a tortilla",
+    "PhotoUrl": "Images/chicken-caesar-wrap.jpg",
+    "Price": "9.25"
+  },
+  {
+    "Name": "Beef Tacos",
+    "Description": "Soft corn tortillas filled with seasoned beef and toppings",
+    "PhotoUrl": "Images/beef-tacos.jpg",
+    "Price": "8.99"
+  },
+  {
+    "Name": "Penne Arrabiata",
+    "Description": "Tubes of pasta in a spicy tomato sauce with garlic and chili",
+    "PhotoUrl": "Images/penne-arrabiata.jpg",
+    "Price": "10.25"
+  },
+  {
+    "Name": "Caprese Salad",
+    "Description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic glaze",
+    "PhotoUrl": "Images/caprese-salad.jpg",
+    "Price": "9.50"
+  },
+  {
+    "Name": "Chicken Parmesan",
+    "Description": "Breaded chicken cutlet topped with tomato sauce and melted cheese",
+    "PhotoUrl": "Images/chicken-parmesan.jpg",
+    "Price": "12.75"
+  },
+  {
+    "Name": "Vegetable Stir-Fry",
+    "Description": "Assorted vegetables sautéed in a soy-based sauce",
+    "PhotoUrl": "Images/vegetable-stir-fry.jpg",
+    "Price": "9.75"
+  },
+  {
+    "Name": "Pepperoni Pizza",
+    "Description": "Classic pizza topped with pepperoni and mozzarella",
+    "PhotoUrl": "Images/pepperoni-pizza.jpg",
+    "Price": "11.50"
+  },
+  {
+    "Name": "Shrimp Scampi",
+    "Description": "Sautéed shrimp in a garlic and butter sauce served over pasta",
+    "PhotoUrl": "Images/shrimp-scampi.jpg",
+    "Price": "14.99"
+  },
+  {
+    "Name": "Cobb Salad",
+    "Description": "Mixed greens topped with chicken, bacon, avocado, and blue cheese",
+    "PhotoUrl": "Images/cobb-salad.jpg",
+    "Price": "11.75"
+  },
+  {
+    "Name": "Beef Stir-Fry",
+    "Description": "Tender strips of beef with vegetables in a savory sauce",
+    "PhotoUrl": "Images/beef-stir-fry.jpg",
+    "Price": "12.25"
+  },
+  {
+    "Name": "Cheeseburger",
+    "Description": "Classic beef patty with melted cheese on a bun",
+    "PhotoUrl": "Images/cheeseburger.jpg",
+    "Price": "8.75"
+  },
+  {
+    "Name": "Chicken Alfredo",
+    "Description": "Grilled chicken with fettuccine in a creamy Alfredo sauce",
+    "PhotoUrl": "Images/chicken-alfredo.jpg",
+    "Price": "13.25"
+  }
+]
