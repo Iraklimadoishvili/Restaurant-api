@@ -13,3 +13,6 @@ Restaurant API is a RESTful web service built using ASP.NET Core. It provides ba
 - Entity Framework Core: Object-relational mapping (ORM) framework for .NET to work with databases using .NET objects.
 - JWT (JSON Web Tokens): A compact, URL-safe means of representing claims to be transferred between two parties.
 - Swagger : A tool that helps generate interactive API documentation.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
